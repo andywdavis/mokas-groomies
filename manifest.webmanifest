@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "Moka’s Groomies – Digital Catalogue",
+  "short_name": "Moka's Groomies",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#d9f1ff",
+  "theme_color": "#d9f1ff",
+  "icons": [
+    {
+      "src": "app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "description": "Moka’s Groomies swipe catalogue and booking demonstration in Kilmarnock."
+}
